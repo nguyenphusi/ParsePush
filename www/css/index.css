@@ -1,0 +1,27 @@
+html,body{
+  margin:0;
+  padding:0;
+  height: 100%;
+}
+body {
+  font-family: source-sans-pro, sans-serif;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+}
+#wrapper {
+  width: 100%;
+  overflow-x: hidden;
+  background: inherit;
+  position: relative;
+}
+.max-width {
+    max-width: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+.center {
+    text-align: center;
+}
+.m_top20 {
+    margin-top: 20px;
+}

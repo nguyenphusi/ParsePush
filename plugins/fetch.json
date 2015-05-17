@@ -1,0 +1,30 @@
+{
+    "com.ccsoft.plugin.CordovaParse": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ccsoft/cordova-parse.git",
+            "subdir": "."
+        }
+    },
+    "org.apache.cordova.core.parseplugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/benjie/phonegap-parse-plugin",
+            "subdir": "."
+        }
+    },
+    "com.example.hello": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/don/cordova-plugin-hello.git",
+            "subdir": "."
+        }
+    },
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/apache/cordova-plugin-dialogs",
+            "subdir": "."
+        }
+    }
+}
